@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleGallery</string>
+
+    <string name="item">item</string>
+    <string name="image">image</string>
+    <string name="share">share</string>
+</resources>
