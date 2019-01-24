@@ -14,13 +14,13 @@ import com.example.babaets.simplegallery.activities.ImageActivity;
 import com.example.babaets.simplegallery.models.Image;
 import com.squareup.picasso.Picasso;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class GalleryAdapter extends RecyclerView.Adapter<GalleryAdapter.GalleryViewHolder> {
     private Context mContext;
-    private ArrayList<Image> dataset;
+    private List<Image> dataset;
 
-    public GalleryAdapter(Context context, ArrayList<Image> dataset) {
+    public GalleryAdapter(Context context, List<Image> dataset) {
         this.mContext = context;
         this.dataset = dataset;
     }

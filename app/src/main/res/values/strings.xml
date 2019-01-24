@@ -4,4 +4,6 @@
     <string name="item">item</string>
     <string name="image">image</string>
     <string name="share">share</string>
+
+    <string name="file_provider_authority" translatable="false">com.quiro.fileproviderexample.fileprovider</string>
 </resources>
